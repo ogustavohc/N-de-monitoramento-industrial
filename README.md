@@ -1,0 +1,1 @@
+# N-de-monitoramento-industrial
