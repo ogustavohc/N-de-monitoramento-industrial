@@ -13,4 +13,4 @@ Também é prevista atualização remota (OTA) com rollback e proteções para o
 <img width="1102" height="1202" alt="diagrama_no_industrial_v1 drawio (1)" src="https://github.com/user-attachments/assets/ff1e06a5-55db-4a4c-b3e6-2985e28c73ce" />
 
 Nesse diagrama é possível visualizar todas as partes relevantes para o funcionamento do dispositivo.
-Linhas contínuas representam a alimentação e linhas tracejadas representam os dados.
+Linhas contínuas representam a alimentação e linhas tracejadas representam os barramentos de dados.
