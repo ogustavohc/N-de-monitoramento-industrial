@@ -1,5 +1,9 @@
 # Nó-de-monitoramento-industrial
 
+Status: Fase de estruturação
+
+Link para documento de requisitos: https://github.com/ogustavohc/N-de-monitoramento-industrial/blob/main/escopo_e_requisitos.md
+
 Um projeto que visa a criação de um aparelho de monitoramento que consiga medir o próprio ambiente que se encontra, e se comunicar com outros dispositivos via ModBus RTU para então transmitir quaisquer informações relevantes para um dashboard operado pelo usuário.
 
 ## Diagrama de blocos
